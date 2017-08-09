@@ -1,0 +1,26 @@
+{
+  "name": "splendid-editor",
+  "version": "0.1.0",
+  "description": "A new package created with mnp",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sobesio/splendid-editor.git"
+  },
+  "keywords": [
+    "mnp"
+  ],
+  "author": "Anton <anton@sobesednik.media>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sobesio/splendid-editor/issues"
+  },
+  "homepage": "https://github.com/sobesio/splendid-editor#readme",
+  "devDependencies": {
+    "zoroaster": "0.4.4"
+  }
+}
